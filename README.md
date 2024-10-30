@@ -12,6 +12,8 @@ Software
 
 Deshabilite la opción de Renderizado de texturas
 
+[Renderizado de Texturas](./Images/Renderizado_Texturas.png)
+
 #### ¿No carga la ventana del escritorio remoto?
 
 Cambie la ubicación del archivo EscritorioRemotoudemedellin.exe al Escritorio o a Documentos
