@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/MediosDigitalesUdeM/Escritorio-Remoto/refs/heads/main/Images/logo.png)
+![https://udemedellin.edu.co](https://raw.githubusercontent.com/MediosDigitalesUdeM/Escritorio-Remoto/refs/heads/main/Images/logo.png)
 
 
 # Escritorio Remoto UdeMedellin
