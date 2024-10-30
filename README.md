@@ -6,17 +6,15 @@
 
 Software 
 
-
 ## FAQ
 
-#### Ventana en Blanco?
+#### ¿Ventana en Blanco al conectarse al equipo?
 
 Deshabilite la opción de Renderizado de texturas
 
-#### Question 2
+#### ¿No carga la ventana del escritorio remoto?
 
-Answer 2
-
+Cambie la ubicación del archivo EscritorioRemotoudemedellin.exe al Escritorio o a Documentos
 
 ## Soporte
 
