@@ -12,7 +12,7 @@ Software
 
 Deshabilite la opción de Renderizado de texturas
 
-[Renderizado de Texturas](./Images/Renderizado_Texturas.png)
+![Renderizado de Texturas](./Images/Renderizado_Texturas.png)
 
 #### ¿No carga la ventana del escritorio remoto?
 
